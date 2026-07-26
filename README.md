@@ -17,6 +17,21 @@ Features
   user settings.
 - Bundled miner process-tree shutdown on Windows.
 
+Screenshots
+-----------
+
+### Live CPU mining and hashrate
+
+![Live CPU mining and purple hashrate](docs/screenshots/mining-live-hashrate.png)
+
+### Wallet transactions
+
+![SCASH wallet transaction history](docs/screenshots/wallet-transactions.png)
+
+### Supported mining pools
+
+![SCASH mining pool selection](docs/screenshots/mining-pool-list.png)
+
 Release package
 ---------------
 
